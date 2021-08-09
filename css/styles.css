@@ -1,0 +1,110 @@
+body{
+  text-align: right;
+}
+.allbooks{
+  background-color: #222831;
+  
+  
+}
+
+.navbar-brand{
+font-size: 7rem;
+font-weight: bolder;
+
+
+
+
+}
+
+
+
+
+.nav-item{
+font-size: 20px;
+padding-right: 20px;
+margin-bottom: 5px;
+}
+
+
+.dropdown-item{
+  font-size: 1.2rem;
+  margin-bottom: 3px;
+}
+
+
+
+img{
+  height: 400px;
+  
+}
+
+
+.books{
+  
+  padding-top: 100px;
+  text-align: center;
+  margin: 0 auto;
+  padding-bottom: 50px;
+  padding-right: 15px;
+  
+}
+
+.card{
+  margin-top: 15px;
+  margin-right: 50px;
+  margin-left: 50px;
+  
+  
+}
+h2{
+  
+  font-family: 'Lalezar', cursive;
+}
+
+
+h3{
+  line-height: 2;
+}
+
+.hr{
+  width: 5%;
+  height: 1px;
+  margin-top: 80px;
+  margin-bottom: 80px;
+  border: dotted grey 15px;
+  border-bottom: none;
+  
+}
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ .contact{
+   text-align: center;
+   background-color: #393E46;
+  color: #EAF6F6;
+  font-size: 15px;
+  padding: 10px;
+  margin-top: 0px;
+  padding-top: 20px;
+
+ }
+ 
+ 
+ .copyright{
+   margin-top: 5px;
+   color: #EAf6f6;
+   font-size: .80rem;
+ }
+ 
+ 
+ .insta{
+   height: 45px;
+   margin: auto 5px;
+ }
+
+
