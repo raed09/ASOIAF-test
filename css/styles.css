@@ -7,14 +7,89 @@ body{
   
 }
 
-.navbar-brand{
-font-size: 1.1rem;
-font-weight: bolder;
-
-
-
-
+           /* DESKTOP WIDTH */
+@media (min-width: 1025px){
+  .navbar-brand{
+    font-family: 'Indie Flower', cursive;
+    font-size: 1.7rem;
+    font-weight: bold;
+    
+  }
 }
+
+
+
+            /* TABLET WIDTH */
+@media (min-width: 768px) and (max-width: 1024px){
+  .navbar-brand{
+    font-family: 'Indie Flower', cursive;
+    font-size: 1.7rem;
+    font-weight: bold;
+  }
+  .nav-item{
+   font-size: 1.1rem;
+   padding-right: 20px;
+   margin-bottom: 5px;
+   margin-top: 1px;
+}
+
+
+.dropdown-item{
+  font-size: 0.9rem;
+  margin-bottom: 3px;
+}
+ 
+}
+
+
+
+
+
+
+
+           /* MOBILE WIDTH */
+@media (min-width: 320px) and (max-width: 480px){
+  
+  .navbar-brand{
+   font-family: 'Indie Flower', cursive;
+   font-size: 1.2rem;
+   font-weight: bolder;
+}
+  
+  .nav-item{
+   font-size: 1rem;
+   padding-right: 20px;
+   margin-bottom: 5px;
+   margin-top: 1px;
+}
+
+
+.dropdown-item{
+  font-size: 0.9rem;
+  margin-bottom: 3px;
+}
+ 
+ .insta{
+   height: 30px;
+   margin: auto 10px;
+ }
+
+  
+  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -23,11 +98,12 @@ font-weight: bolder;
 font-size: 20px;
 padding-right: 20px;
 margin-bottom: 5px;
+margin-top: 1px;
 }
 
 
 .dropdown-item{
-  font-size: 1.2rem;
+  font-size: 0.9rem;
   margin-bottom: 3px;
 }
 
@@ -106,5 +182,4 @@ h3{
    height: 45px;
    margin: auto 5px;
  }
-
 
